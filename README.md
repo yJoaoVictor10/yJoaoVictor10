@@ -32,6 +32,14 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas** na **FIAP**, onde a
 
 ---
 
+## 🤖 Aprendizado em Inteligência Artificial
+
+- Experiência com **Watson Assistant** da IBM Cloud  
+- Integração utilizando **Node-RED**  
+- Comunicação via **Telegram Bot**  
+
+---
+
 ## 🤝 Vamos colaborar?
 
 Estou aberto a projetos interessantes que envolvam desenvolvimento de software e integração de sistemas.  
