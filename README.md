@@ -27,7 +27,7 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas** na **FIAP**, onde a
 
 ## 📚 Atualmente aprendendo
 
-- Técnicas avançadas em Spring Boot  
+- Aprimorando minhas técnicas com JavaScript
 - Melhores práticas de arquitetura backend  
 
 ---
@@ -42,7 +42,7 @@ Sinta-se à vontade para me chamar!
 ## 📫 Como me encontrar
 
 - GitHub: [@yJoaoVictor10](https://github.com/yJoaoVictor10)  
-- Email: (adicione seu email aqui, se quiser)
+- Email: (jvna07@gmail.com)
 
 ---
 
