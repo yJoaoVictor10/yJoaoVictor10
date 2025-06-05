@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o João Victor!
 
 ## 💻 Sobre mim
-Sou um desenvolvedor apaixonado por tecnologia, com experiência intermediária em várias linguagens e frameworks, sempre buscando criar soluções eficientes e escaláveis.  
+Sou um desenvolvedor apaixonado por tecnologia, com experiência em várias linguagens e frameworks, sempre buscando criar soluções eficientes e escaláveis.  
 Atualmente, curso **Análise e Desenvolvimento de Sistemas** na **FIAP**, onde aprofundo meus conhecimentos e habilidades na área de TI.
 
 ---
